@@ -1,6 +1,6 @@
 # Hi, I'm Aneesh
 
-I'm currently a senior @ imsa (illinois math & science academy) and will be continuing my education at uw-madison next year as a cs major.
+I'm currently a senior @ imsa (illinois math & science academy) and will be continuing my education at purdue doing ds+cs.
 
 <div>
   <a href="mailto:abargaje1@imsa.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/> </a>
