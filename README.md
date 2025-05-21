@@ -4,7 +4,7 @@ I'm currently a senior @ imsa (illinois math & science academy) and will be cont
 
 <div>
   <a href="mailto:abargaje1@imsa.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/> </a>
-  <a href=""https://www.linkedin.com/in/aneesh-bargaje-a345b7269/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/> </a>
+  <a href="https://www.linkedin.com/in/aneesh-bargaje-a345b7269"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/> </a>
 </div>
 
 ## Technologies I use
