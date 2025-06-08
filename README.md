@@ -1,9 +1,12 @@
 # Hi, I'm Aneesh
 
-I'm currently a senior @ imsa (illinois math & science academy) and will be continuing my education at purdue doing ds+cs.
+i'm an incoming Freshman at purdue majoring in data sci + comp sci
+i enjoy playing tennis, pickleball, and basketball
+i am currently a student pilot in pursuit of my private pilots license
 
+<h2> Reach out: </h2>
 <div>
-  <a href="mailto:abargaje1@imsa.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/> </a>
+  <a href="mailto:abargaje@purdue.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/> </a>
   <a href="https://www.linkedin.com/in/aneesh-bargaje-a345b7269"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/> </a>
 </div>
 
