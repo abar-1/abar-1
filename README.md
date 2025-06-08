@@ -1,8 +1,8 @@
 # Hi, I'm Aneesh
 
-i'm an incoming Freshman at purdue majoring in data sci + comp sci
-i enjoy playing tennis, pickleball, and basketball
-i am currently a student pilot in pursuit of my private pilots license
+i'm an incoming Freshman at purdue majoring in data sci + comp sci  
+i enjoy playing tennis, pickleball, and basketball  
+i am currently a student pilot in pursuit of my private pilots license  
 
 <h2> Reach out: </h2>
 <div>
