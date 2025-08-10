@@ -1,14 +1,16 @@
+
+
 # Hi, I'm Aneesh
 
 i'm an incoming Freshman at purdue majoring in data sci + comp sci  
-i'm interested in cyber & ml, and its application to aviation.
+i'm interested in cyber & ml, and its application to aviation.  
 i enjoy playing tennis, pickleball, and basketball  
 i am currently a student pilot in pursuit of my private pilots license  
 
 <h2> Reach out: </h2>
 <div>
   <a href="mailto:abargaje@purdue.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/> </a>
-  <a href="https://www.linkedin.com/in/aneesh-bargaje-a345b7269"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/> </a>
+  <a href="https://www.linkedin.com/in/aneesh-bargaje-a345b7269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/> </a>
 </div>
 
 ## Technologies I use
@@ -34,4 +36,5 @@ i am currently a student pilot in pursuit of my private pilots license
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
 </div>
- 
+
+
