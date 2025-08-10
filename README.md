@@ -1,6 +1,7 @@
 # Hi, I'm Aneesh
 
 i'm an incoming Freshman at purdue majoring in data sci + comp sci  
+i'm interested in cyber & ml, and its application to aviation.
 i enjoy playing tennis, pickleball, and basketball  
 i am currently a student pilot in pursuit of my private pilots license  
 
