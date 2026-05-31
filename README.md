@@ -2,10 +2,10 @@
 
 # Hi, I'm Aneesh
 
-i'm a Freshman at purdue majoring in data sci + comp sci  
+i'm a Sophomore at purdue majoring in data sci + comp sci  
 i'm interested in cyber, autonomous systems, and computer vision. 
 i enjoy playing tennis, pickleball, and basketball  
-i am currently a student pilot in pursuit of my private pilots license  
+I have my private pilots license 
 
 <h2> Reach out: </h2>
 <div>
