@@ -2,8 +2,8 @@
 
 # Hi, I'm Aneesh
 
-i'm a Sophomore at purdue majoring in data sci + comp sci  
-i'm interested in cyber, autonomous systems, and computer vision. 
+i'm a sophomore at purdue majoring in data sci + comp sci  
+i'm interested in swe, data science, and computer vision. 
 i enjoy playing tennis, pickleball, and basketball  
 I have my private pilots license 
 
