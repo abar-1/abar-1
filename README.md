@@ -3,9 +3,11 @@
 # Hi, I'm Aneesh
 
 i'm a sophomore at purdue majoring in data sci + comp sci  
-i'm interested in swe, data science, and computer vision. 
-i enjoy playing tennis, pickleball, and basketball  
-I have my private pilots license 
+IT Intern @ Flexco doing RPA, Data Science, and QLoRA for an LLM-based project \
+Incoming Marketing Data Science Analyst Intern @ Purdue Business School (Fall 26)
+
+
+
 
 <h2> Reach out: </h2>
 <div>
