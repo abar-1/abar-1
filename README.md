@@ -3,7 +3,7 @@
 # Hi, I'm Aneesh
 
 i'm a sophomore at purdue majoring in data sci + comp sci  
-IT Intern @ Flexco doing RPA, Data Science, and QLoRA for an LLM-based project \
+IT Intern @ Flexco doing RPA, Data Science, and QLoRA for an LLM project that converts purchase orders to sale orders \
 Incoming Marketing Data Science Analyst Intern @ Purdue Business School (Fall 26)
 
 
